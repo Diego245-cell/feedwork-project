@@ -29,7 +29,7 @@ font-size:26px;
 
 font-weight:bold;
 
-color:#6dd5fa;
+color:#414aa2;
 
 }
 
@@ -71,23 +71,26 @@ font-size:20px;
 margin:20px 0;
 
 }
+ #btn-whatsapp{
+    background-color: #32105e;
+    color: white;
+    padding: 18px 28px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+ }
 
-.hero button{
-
-padding:15px 35px;
-
-background:#6dd5fa;
-
-border:none;
-
-border-radius:10px;
-
-font-weight:bold;
-
-cursor:pointer;
-
-}
-
+ .hero img{
+    width: 500px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ }
 .servicos{
 
 padding:80px 10%;
@@ -206,7 +209,7 @@ padding:15px;
 
 border:none;
 
-background:#6dd5fa;
+background:#3d2989;
 
 font-weight:bold;
 
@@ -220,6 +223,6 @@ text-align:center;
 
 padding:30px;
 
-background:#0f0c29;
+background:#2b0a3f;
 
 }
